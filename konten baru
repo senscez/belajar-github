@@ -3,9 +3,12 @@ ini konten baru
 - JavaScript
   - FS6
   - FS7
-  - Framework Javascript
-    ^ Vue
-    ^ React
+=======
+- Framework Javascript
+  ^ Angular
+  ^ React
+- PHP Framework
+  ^ Laravel
 - Java
 - PHP Framework
   ^ Laravel
